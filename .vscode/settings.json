@@ -36,5 +36,6 @@
         "ostream": "cpp",
         "sstream": "cpp",
         "regex": "cpp"
-    }
+    },
+    "code-runner.saveFileBeforeRun": true
 }
