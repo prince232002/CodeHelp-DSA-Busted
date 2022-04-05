@@ -18,5 +18,5 @@ int main()
 using namespace std;
 int main(){
  int n; 
- cout <<
+ cout <<"enter the number "
 }
