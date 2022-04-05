@@ -21,6 +21,7 @@ int main(){
  cout <<"enter the number ";
  cin>> n;
  for(int i=0; i<n; i++){
-     cout<< n << 
+     cout<< n << i << "fsfss";
+     
  }
 }
