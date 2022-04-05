@@ -17,7 +17,7 @@ int main()
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
- int n; 
+ int n; L
  cout <<"enter the number ";
  cin>> n;
  for(int i=0; i<n; i++){
