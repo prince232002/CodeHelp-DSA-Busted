@@ -1,0 +1,71 @@
+{
+	// Place your snippets for cpp here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+     "boilerplate" :{
+		"prefix": "boilerplate code",
+		"body": [
+			"#include<bits/stdc++.h>",
+			"using namespace std;",
+			"int main(){",
+			" "
+			,
+			"}"
+		],
+		
+		"description": "Log output to console"
+	 },
+	 "boilerplate2" :{
+
+		"prefix":"bits",
+		"body":[
+			"#include<bits/stdc++.h>"
+			
+			],
+	},
+	"boilerplate3" :{
+
+		"prefix":"fori",
+		"body":[
+			"for(int i=0; i<n; i++)"
+			
+			],
+	},
+	"boilerplate4" :{
+
+		"prefix":"forj",
+		"body":[
+			"for(int j=0; j<n; j++)"
+			
+			],
+	},
+	"boilerplate5" :{
+
+		"prefix":"nar",
+		"body":[
+			"n=sizeof(a)/sizeof(a{0})"
+			
+			],
+	},
+    "boilerplate6" :{
+
+		"prefix":"forsz",
+		"body":[
+			"for(int i=0; i<a.size(); i++){",
+				"cout<<a[i]<<' ';",
+			 "}"
+			],
+	},
+    "boilerplate7" :{
+
+		"prefix":"foritr",
+		"body":[
+			"for(auto it: ){",
+				"cout<<it.first<<' '<<it.second<<endl;",
+			 "}"
+			],
+	},
+
+}

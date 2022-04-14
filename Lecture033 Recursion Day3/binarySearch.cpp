@@ -12,7 +12,7 @@ bool binarySearch(int *arr, int s, int e , int k ) {
 
     //base case
 
-    //element not found
+    //element not found   (means array end reached)
     if(s>e)
         return false;
 
@@ -33,7 +33,7 @@ bool binarySearch(int *arr, int s, int e , int k ) {
 
 int main() {
 
-    int arr[11] = {2,4,6,10,14,18,22,38,49,55,222};
+    int arr[11] = {2,4,6,10,14,18,22,38,49,55,22};
     int size = 11;
     int key = 222;
 
