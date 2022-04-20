@@ -1,8 +1,7 @@
-n = int(input())
-sum = 0
-
-while n > 0:
-    sum += n
-    n -= 1
-
-print("Value of sum is",sum)
+n=int(input())
+i=1
+sum=0
+while i<=n:
+  sum+=i
+  i+=1
+print(f"value of sum is {sum}")
