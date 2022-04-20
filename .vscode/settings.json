@@ -8,5 +8,7 @@
           
         "configurations": [],
         "compounds": []
-    }
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
 }
